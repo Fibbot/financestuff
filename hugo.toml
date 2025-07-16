@@ -1,0 +1,4 @@
+baseURL = 'https://money.literallyjake.com'
+languageCode = 'en-us'
+title = 'Jakes Notes on Money & Finances'
+theme = 'PaperMod'
