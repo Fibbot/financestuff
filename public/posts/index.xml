@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jake&#39;s Notes on Basic Finance</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jake&#39;s Notes on Basic Finance</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jul 2025 10:10:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax Brackets</title>
+      <link>http://localhost:1313/posts/tax-brackets/</link>
+      <pubDate>Wed, 16 Jul 2025 10:10:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/tax-brackets/</guid>
+      <description>&lt;p&gt;A brief explainer on tax brackets and your paycheck.&lt;/p&gt;
+&lt;h2 id=&#34;breakdown&#34;&gt;Breakdown&lt;/h2&gt;
+&lt;p&gt;Imagine you&amp;rsquo;re at an all-you-can-eat buffet with different price tiers based on the amount of food you actually consume. The more you eat, the higher the tier you move into, but you only pay that higher price for the food you eat in that tier. In the U.S., tax brackets work similarly: your income is divided into chunks, and each chunk is taxed at a different rate. So, if you earn more, only the extra income in the higher bracket gets taxed at the higher rate, not your entire paycheck.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

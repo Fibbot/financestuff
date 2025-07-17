@@ -1,5 +1,21 @@
 baseURL = 'https://money.literallyjake.com'
 languageCode = 'en-us'
-title = 'Jakes Notes on Money & Finances'
+title = "Jake's Notes on Basic Finance"
 theme = 'PaperMod'
 googleAnalytics = ''
+
+[params.profileMode]
+enabled = true
+title = "Not rocket surgery."
+subtitle = "Basic stuff we should have been taught in school."
+imageUrl = "/images/hellofriend.png"
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+name = "Posts"
+url = "/posts"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/Fibbot/financestuff"
