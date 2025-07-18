@@ -6,8 +6,17 @@
     <description>Recent content in Posts on Jake&#39;s Notes on Basic Finance</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jul 2025 10:10:58 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 10:10:58 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Card Interest</title>
+      <link>http://localhost:1313/posts/credit-card-interest/</link>
+      <pubDate>Thu, 17 Jul 2025 10:10:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/credit-card-interest/</guid>
+      <description>&lt;p&gt;A brief explainer on what your credit card interest looks like.&lt;/p&gt;
+&lt;h2 id=&#34;breakdown&#34;&gt;Breakdown&lt;/h2&gt;
+&lt;p&gt;Credit card interest is typically very high. As of 2024, it&amp;rsquo;s around 24% APR (annual percentage rate), which is an annoying way of saying about 2% every month. You can take your credit card’s APR and divide it by 12 to calculate the interest that will accrue on your balance each month. That ‘each month’ aspect of credit card interest makes it easy to fall into debt quickly if you’re not careful. If you bite off more than you can chew, you don’t have much time to fix the situation before the interest adds up. Let’s get into it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tax Brackets</title>
       <link>http://localhost:1313/posts/tax-brackets/</link>

@@ -9,25 +9,25 @@ A brief explainer on tax brackets and your paycheck.
 
 Imagine you're at an all-you-can-eat buffet with different price tiers based on the amount of food you actually consume. The more you eat, the higher the tier you move into, but you only pay that higher price for the food you eat in that tier. In the U.S., tax brackets work similarly: your income is divided into chunks, and each chunk is taxed at a different rate. So, if you earn more, only the extra income in the higher bracket gets taxed at the higher rate, not your entire paycheck.
 
-## Show me some examples
+### Show me some examples
 
 Say you make $50,000 per year. When you break this down within the tax brackets (2022), it looks like:
 - $10,275 taxed at 10%
 - $31,500 taxed at 12%
 - $8,225 taxed at 22%
 
-### **Math:**
-### Tier 1 ($0 - $10,275 @ 10%)
+#### **Math:**
+#### Tier 1 ($0 - $10,275 @ 10%)
 Taxes taken out: $10,275 x .10 = $1,027.50
 
 Money taken home: $10,275 - $1,027.50 = $9,247.50
 
-### Tier 2 ($10,276 - $41,775 @ 12%)
+#### Tier 2 ($10,276 - $41,775 @ 12%)
 Taxes taken out: $31,500 x .12 = $3,780
 
 Money taken home: $31,500 - $3,780 = $27,720
 
-### Tier 3 ($41,776 - $50,000 @ 22%)
+#### Tier 3 ($41,776 - $50,000 @ 22%)
 Taxes taken out: $8,225 x .22 = $1,809.50
 
 Money taken home: $8,225 - $1,809.50 = $6,415.50
@@ -69,5 +69,4 @@ I've come across several people in my life who say, 'Oh, you better watch that r
 
 Thanks for reading!
 
-Jake
-================================================================================
+*Jake*

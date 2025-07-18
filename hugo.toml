@@ -12,6 +12,18 @@ imageUrl = "/images/hellofriend.png"
 imageWidth = 120
 imageHeight = 120
 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+includeMatches = true
+threshold = 0.3            # Lower = stricter match (0.0 = exact, 1.0 = match anything)
+distance = 100             # Lower = prefer matches closer together
+minMatchCharLength = 2     # Helps filter garbage inputs like "a" or "hi"
+keys = [ "title", "summary", "content" ]  # 'permalink' not needed here
+
 [[params.profileMode.buttons]]
 name = "Posts"
 url = "/posts"
