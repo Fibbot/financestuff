@@ -31,3 +31,10 @@ url = "/posts"
 [[params.socialIcons]]
 name = "Github"
 url = "https://github.com/Fibbot/financestuff"
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
+[markup.goldmark.renderer]
+unsafe = true

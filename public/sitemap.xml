@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/financial-snapshot/</loc>
+    <lastmod>2025-07-20T19:59:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/annual-credit-report/</loc>
+    <lastmod>2025-07-20T19:41:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/interest/</loc>
+    <lastmod>2025-07-20T19:37:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/employer-match/</loc>
+    <lastmod>2025-07-20T19:33:04-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/inflation/</loc>
+    <lastmod>2025-07-20T19:29:09-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-07-20T19:25:03-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
     <lastmod>2025-07-17T20:03:17-05:00</lastmod>
   </url><url>
