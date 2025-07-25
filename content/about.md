@@ -18,4 +18,4 @@ So all that to say: I’ve been there, I’ve lived it, and, if possible, I’d 
 
 Again, thanks for reading and I genuinely hope that the information I share here is useful to you in helping you make your own financial decisions in a way that you understand and feel confident about.
 
-Jake
+*Jake*
