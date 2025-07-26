@@ -1,6 +1,6 @@
 +++
 date = '2025-07-20T19:59:57-05:00'
-draft = true
+draft = false
 title = 'Getting Your Financial Snapshot'
 +++
 Let's get your $..tuff together.

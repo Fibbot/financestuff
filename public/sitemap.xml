@@ -2,44 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/investment-accounts/</loc>
-    <lastmod>2025-07-24T20:13:07-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/financial-snapshot/</loc>
-    <lastmod>2025-07-20T19:59:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/annual-credit-report/</loc>
-    <lastmod>2025-07-20T19:41:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/interest/</loc>
-    <lastmod>2025-07-20T19:37:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/employer-match/</loc>
-    <lastmod>2025-07-20T19:33:04-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/inflation/</loc>
-    <lastmod>2025-07-20T19:29:09-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-07-20T19:25:03-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <lastmod>2025-07-17T20:03:17-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/credit-card-interest/</loc>
-    <lastmod>2025-07-17T10:10:58-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-16T20:46:33-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://money.literallyjake.com/</loc>
     <lastmod>2025-07-16T20:44:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tax-brackets/</loc>
+    <loc>https://money.literallyjake.com/posts/</loc>
+    <lastmod>2025-07-16T20:46:33-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/credit-freeze/</loc>
+    <lastmod>2025-07-25T19:48:56-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/tax-returns/</loc>
+    <lastmod>2025-07-25T19:43:51-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/financial-life-preserver/</loc>
+    <lastmod>2025-07-24T20:16:34-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/investment-accounts/</loc>
+    <lastmod>2025-07-24T20:13:07-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/financial-snapshot/</loc>
+    <lastmod>2025-07-20T19:59:57-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/annual-credit-report/</loc>
+    <lastmod>2025-07-20T19:41:27-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/interest/</loc>
+    <lastmod>2025-07-20T19:37:27-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/employer-match/</loc>
+    <lastmod>2025-07-20T19:33:04-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/inflation/</loc>
+    <lastmod>2025-07-20T19:29:09-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/about/</loc>
+    <lastmod>2025-07-20T19:25:03-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/search/</loc>
+    <lastmod>2025-07-17T20:03:17-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/credit-card-interest/</loc>
+    <lastmod>2025-07-17T10:10:58-05:00</lastmod>
+  </url><url>
+    <loc>https://money.literallyjake.com/posts/tax-brackets/</loc>
     <lastmod>2025-07-16T10:10:58-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://money.literallyjake.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://money.literallyjake.com/tags/</loc>
   </url>
 </urlset>
