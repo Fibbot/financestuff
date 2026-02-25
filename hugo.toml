@@ -1,6 +1,6 @@
 baseURL = 'https://money.literallyjake.com'
 languageCode = 'en-us'
-title = "Jake's Notes on Basic Finance"
+title = "Notes on Basic Finance"
 theme = 'PaperMod'
 googleAnalytics = ''
 
